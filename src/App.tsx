@@ -162,8 +162,8 @@ const Hero = () => {
             Launching Today • April 6, 2026
           </span>
           <h1 className="text-5xl lg:text-7xl font-display font-bold tracking-tight mb-8 leading-[1.1]">
-            Empowering Your Digital <br />
-            <span className="text-gradient">Future with NextLoop IT</span>
+            Innovating Your Digital <br />
+            <span className="text-gradient">Journey with NextLoop IT</span>
           </h1>
           <p className="text-lg lg:text-xl text-slate-400 max-w-2xl mx-auto mb-10 leading-relaxed">
             We deliver cutting-edge technology solutions to help your business thrive in the digital age. From custom apps to AI automation, we've got you covered.
