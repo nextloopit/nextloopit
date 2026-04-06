@@ -6,6 +6,8 @@ import {
   CreditCard, 
   Megaphone, 
   Cpu,
+  Palette,
+  Layers,
   ArrowRight,
   CheckCircle2,
   Mail,
@@ -63,6 +65,18 @@ const services = [
     description: "Streamline your workflows and enhance productivity with custom AI-powered automation tools.",
     icon: Cpu,
     color: "text-cyan-400"
+  },
+  {
+    title: "Design",
+    description: "User-centric UI/UX design that combines aesthetics with functionality for a memorable brand experience.",
+    icon: Palette,
+    color: "text-indigo-400"
+  },
+  {
+    title: "Product Build",
+    description: "End-to-end product development from concept to launch, ensuring quality and scalability at every step.",
+    icon: Layers,
+    color: "text-red-400"
   }
 ];
 
@@ -283,13 +297,13 @@ const Contact = () => {
                 <div className="w-10 h-10 bg-white/10 rounded-lg flex items-center justify-center">
                   <Phone className="w-5 h-5" />
                 </div>
-                <span>+1 (555) 123-4567</span>
+                <span>+94 78 892 0777</span>
               </div>
               <div className="flex items-center gap-4">
                 <div className="w-10 h-10 bg-white/10 rounded-lg flex items-center justify-center">
                   <MapPin className="w-5 h-5" />
                 </div>
-                <span>Silicon Valley, CA</span>
+                <span>Sri Lanka</span>
               </div>
             </div>
           </div>
